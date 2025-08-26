@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hey! My name is Cosmin Pănescu and I enjoy building projects to put into practice the theoretical knowledge I acquire. To be more explicit, I'm a student and self-taught individual with a passion for CyberSecurity & Pentesting.
+Hey! My name is NYAWUWE komla and I enjoy building projects to put into practice the theoretical knowledge I acquire. To be more explicit, I'm a student and self-taught individual with a passion for CyberSecurity, Pentesting and LLM.
 
 
 ## 📊 GitHub Stats:
